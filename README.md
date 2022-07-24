@@ -1,6 +1,6 @@
 #	Windkessel code for OpenFOAM 4.0
 
-This solver applies a three-element Windkessel boundary condition on up to 10 outlet boundaries.
+This solver applies a three-element Windkessel boundary condition on up to 10 outlet boundaries in OpenFOAM v4. For Windkessel code compatible with OpenFOAM v8 see my other repositories
 
 Please cite this code using:
 [1] Manchester, E. L., Pirola, S., Salmasi, M. Y., O’Regan, D. P., Athanasiou, T., and Xu,
