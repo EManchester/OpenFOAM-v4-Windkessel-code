@@ -47,8 +47,10 @@ In the case directory:
     If the simulation ends and is subsequently run on, these values need to be updated as they are used to initialise the subsequent simulation. Replace constant/windkesselProperties file with windkesselProperties copied from any of the processor directories (e.g. processor0/constant/windkesselProperties). The windkesselProperties files are saved to the processors at run time, as specified by writeInterval in the controlDict.
 
     OUTLET_NAME
+    
     {
-    	...
+    
+    ...
 
     Flowrate_threeStepBefore      	0;
     
