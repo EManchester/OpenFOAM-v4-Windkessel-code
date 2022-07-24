@@ -9,6 +9,8 @@ Aortic Valve Stenosis. Cardiovasc. Eng. Tech. 12, 438453. doi:10.1007/s13239-021
 
 Authors: Andris Piebalgs, Boram Gu and Emily Manchester Imperial College London, 2020.
 
+Contact: emily.manchester@manchester.ac.uk or e.manchester17@imperial.ac.uk
+
 ## Compilation
 
 Standard compilation procedure.
