@@ -22,7 +22,9 @@ In the case directory:
 1. In 0/p, specify Windkessel outlet boundary condition as follows
 
     OUTLET_NAME
+    
     {
+	      
 	      type    WKBC;
 	      
 	      index		0;
